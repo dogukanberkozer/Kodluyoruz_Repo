@@ -6,8 +6,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 `git clone https://github.com/doguberko/kodluyoruzrepo.git`
 
-## Usage
+## Usage
+
 Projeyi clonladıktan sonra Visual Studio Code'da aç.
+
 Linux için:
 ```
 cd kodluyoruzrepo
